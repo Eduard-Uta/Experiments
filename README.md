@@ -2,7 +2,7 @@
 
 <h2>Automatically Turn Off computer after download completes</h2>
 
-* Powershell script to automatically turn off Windows machine (computer/laptop) after download in progress completes.
+* <b>Powershell</b> script to automatically turn off Windows machine (computer/laptop) after download in progress completes.
 * The entire process is detailed here: https://youtu.be/K43k7ziX664
 
 <h2>Automatically backup work files using Powershell</h2>
