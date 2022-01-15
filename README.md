@@ -1,5 +1,11 @@
 # Experiments
 
+<h2>Automatically save work files using Powershell</h2>
+
+* Mechanism to automatically save the work files from the past day into an archive file. 
+* The tool of choice for the scripting is <b>Powershell</b>, combined with a simple, basic Task Scheduler task for the automation part.
+* The entire process is detailed here: https://youtu.be/mb9bv5qs8_A 
+
 <h2>Delete garbage files (via Powershell)</h2>
 
 * DIY way to automatically delete files or folders that are no longer needed (garbage) from the Download(s) folder(s).
