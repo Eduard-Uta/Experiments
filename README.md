@@ -22,3 +22,8 @@
 
 * In this experiment we will look into a (simple) way to generate 1 million fake, random email addresses using <b>SQL Server</b>.
 * The entire process is detailed here: https://callofcode.org/how-to-generate-1-million-random-email-addresses-using-sql/ or here: https://youtu.be/SKlmPbl3qbo
+
+<h2>Stack Overflow developer survey responses 2011-2020</h2>
+
+* In this experiment we analyze 10 years of Stack Overflow developer survey responses by Country or Region using <b>SQL Server</b> and for generating a neat racing bar chart, a website called https://flourish.studio/.
+* Source of data is https://insights.stackoverflow.com/survey
